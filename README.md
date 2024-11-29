@@ -5,7 +5,7 @@
 💡 &nbsp;Me apasiona explorar nuevas tecnologías y desarrollar soluciones en el ámbito de la ciberseguridad.\
 🎓 &nbsp;Soy estudiante de Ingeniería de Ciberseguridad en SENATI (Servicio Nacional de Adiestramiento en Trabajo Industrial).\
 🌱 &nbsp;Estoy enfocado en aprender más sobre ciberseguridad, configuración de redes y equipos de red como routers, entre otros.\
-💻 &nbsp;Actualmente estoy aprendiendo Python y C# para fortalecer mis habilidades de programación y estar siempre a la vanguardia en el campo.\
+💻 &nbsp;Actualmente estoy aprendiendo Python y C# para fortalecer mis habilidades de programación y estar siempre a la vanguardia.\
 💬 &nbsp;No dudes en contactarme para intercambiar ideas o colaborar en proyectos interesantes.\
 ✉️ &nbsp;Puedes escribirme a loonbac21@proton.me y haré lo posible por responderte pronto.
 

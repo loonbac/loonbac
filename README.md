@@ -36,8 +36,8 @@
 
 <p align="center">
 <a href="www.linkedin.com/in/joshua-manuel-rosales-moreno-9b6a432b7"><img src="https://img.shields.io/badge/-Joshua%20Manuel%20Rosales-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:loonbac21@proton.me"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Proton&logoColor=white"/></a>
-<a href="https://instagram.com/yazukita12"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:loonbac21@proton.me"><img src="https://img.shields.io/badge/-loonbac21@proton.me-D14836?style=flat&logo=Proton&logoColor=white"/></a>
+<a href="https://instagram.com/yazukita12"><img src="https://img.shields.io/badge/-@yazukita12_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/Dec12Gamer"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
